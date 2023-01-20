@@ -1,4 +1,4 @@
-# Messaging_Server
+# Messaging application
 
 Messaging app based on a Client-Server model that works with CLI arguments.
 
