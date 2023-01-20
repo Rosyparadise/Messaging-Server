@@ -15,7 +15,7 @@ First and second arguments of Client: localhost {insert-server-token}
 
 Client requests: 
 
-1) Create account: localhost {insert-server-token} 1 {insert-name}
+1) Create account: 1 {insert-name}
 CLI will output an authentication code that will be used later. (numbers in ascending order)
 
 2) list all users: 2 {authentication-token}
