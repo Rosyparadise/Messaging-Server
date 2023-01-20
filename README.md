@@ -6,7 +6,8 @@ Messaging app based on a Client-Server model that works with CLI arguments.
 
 
 Server arguments:
-1)Server token(e.g 5000)
+
+1) Server token(e.g 5000)
 
 First and second arguments of Client: localhost <insert-server-token>
 
